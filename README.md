@@ -35,7 +35,8 @@ When you open the Note Taker application, you will be presented with a landing p
 The Note Taker application has been deployed to Heroku and is accessible at the following URL:
 https://ch-express-note-taker-50481647717a.herokuapp.com/
 
-![Screenshot](/develop/public/assets/Screen%20Shot%202023-07-05%20at%204.00.11%20PM.png)
+![Screenshot1](/develop/public/assets/Screen%20Shot%202023-07-05%20at%204.00.11%20PM.png)
+![Screenshot2](/develop/public/assets/Screen%20Shot%202023-07-05%20at%204.20.40%20PM.png)
 
 You can visit the deployed application and start using it immediately without having to run it locally.
 
