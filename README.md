@@ -52,4 +52,4 @@ None.
 
 While having a lot of issues deploying with heroku I used this stack overflow article to solve the problem: https://stackoverflow.com/questions/18406721/heroku-does-not-appear-to-be-a-git-repository
 
-This cite was referenced to help with the app.delete function: https://expressjs.com/en/5x/api.html#app.delete.method
+This website was referenced to help with the app.delete function: https://expressjs.com/en/5x/api.html#app.delete.method
